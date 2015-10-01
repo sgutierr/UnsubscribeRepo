@@ -1,0 +1,31 @@
+
+<form id="1086054512">
+<property name="subject" value=""/>
+<property name="name" value="FlujoProvisionForm.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="FlujoProvision_identCat" type="InputTextInteger" id="288532448">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;identCat (FlujoProvision)quot;"/>
+<property name="inputBinding" value="flujoProvisionIn/identCat"/>
+<property name="outputBinding" value="flujoProvisionOut/identCat"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="1" name="FlujoProvision_identificativo" type="InputTextInteger" id="101340465">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;identificativo (FlujoProvision)quot;"/>
+<property name="inputBinding" value="flujoProvisionIn/identificativo"/>
+<property name="outputBinding" value="flujoProvisionOut/identificativo"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="2" name="FlujoProvision_prioridad" type="InputTextInteger" id="252048411">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;prioridad (FlujoProvision)quot;"/>
+<property name="inputBinding" value="flujoProvisionIn/prioridad"/>
+<property name="outputBinding" value="flujoProvisionOut/prioridad"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<dataHolder inputId="flujoProvisionIn" name="#A7E690" type="dataModelerEntry" outId="flujoProvisionOut" value="org.redhat.bpms.bajaserviciosadicionales.FlujoProvision" id="FlujoProvision"/>
+</form>

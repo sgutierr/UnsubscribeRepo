@@ -1,0 +1,63 @@
+
+<form id="1684312174">
+<property name="subject" value=""/>
+<property name="name" value="FormOrdenServicio.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="ordenServicio_productoComercial" type="Subform" id="1195922051">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value="font-weight:bold;"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;productoComercial (ordenServicio)quot;quot;esquot;,quot;Productoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="inputBinding" value="ordenservicioi/productoComercial"/>
+<property name="outputBinding" value="ordenservicioo/productoComercial"/>
+<property name="defaultSubform" value="FormProducto.form"/>
+<property name="fieldClass" value="java.lang.Object"/>
+</field>
+<field position="1" name=":decorator_0" type="Separator" id="1708093641">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value=""/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<field position="2" name="ordenServicio_cliente" type="Subform" id="828095332">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value="font-weight:bold;"/>
+<property name="label" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;cliente (ordenServicio)quot;quot;esquot;,quot;Clientequot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="inputBinding" value="ordenservicioi/cliente"/>
+<property name="outputBinding" value="ordenservicioo/cliente"/>
+<property name="defaultSubform" value="FormCliente.form"/>
+<property name="fieldClass" value="java.lang.Object"/>
+</field>
+<field position="3" name="ordenServicio_flujo" type="Subform" id="529108497">
+<property name="fieldRequired" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;flujo (ordenServicio)quot;quot;esquot;,quot;Flujoquot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="inputBinding" value="ordenservicioi/flujo"/>
+<property name="outputBinding" value="ordenservicioo/flujo"/>
+<property name="defaultSubform" value="FormFlujo.form"/>
+<property name="fieldClass" value="java.lang.Object"/>
+</field>
+<dataHolder inputId="ordenservicioi" name="#E9E371" type="dataModelerEntry" outId="ordenservicioo" value="org.redhat.bajaservicios.OrdenServicio" id="ordenServicio"/>
+</form>

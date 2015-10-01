@@ -1,0 +1,167 @@
+
+<form id="1242793517">
+<property name="subject" value=""/>
+<property name="name" value="ConfiguracionForm.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="ConfiguracionId_centralita" type="InputTextInteger" id="1391227413">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;centralita (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/centralita"/>
+<property name="outputBinding" value="ConfiguracionOut/centralita"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="1" name="ConfiguracionId_connectLan" type="InputTextInteger" id="718909773">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;connectLan (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/connectLan"/>
+<property name="outputBinding" value="ConfiguracionOut/connectLan"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="2" name="ConfiguracionId_depega" type="InputTextInteger" id="2130404022">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;depega (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/depega"/>
+<property name="outputBinding" value="ConfiguracionOut/depega"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="3" name="ConfiguracionId_devOtroOperador" type="InputTextInteger" id="1736950968">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;devOtroOperador (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/devOtroOperador"/>
+<property name="outputBinding" value="ConfiguracionOut/devOtroOperador"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="4" name="ConfiguracionId_dirIpFijas" type="InputTextInteger" id="1461198651">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;dirIpFijas (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/dirIpFijas"/>
+<property name="outputBinding" value="ConfiguracionOut/dirIpFijas"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="5" name="ConfiguracionId_eS_RPV1" type="InputTextInteger" id="930725892">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;eS_RPV1 (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/eS_RPV1"/>
+<property name="outputBinding" value="ConfiguracionOut/eS_RPV1"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="6" name="ConfiguracionId_fechaInst" type="InputText" id="2003893465">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;fechaInst (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/fechaInst"/>
+<property name="outputBinding" value="ConfiguracionOut/fechaInst"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="7" name="ConfiguracionId_forAut" type="InputTextInteger" id="1053807501">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;forAut (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/forAut"/>
+<property name="outputBinding" value="ConfiguracionOut/forAut"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="8" name="ConfiguracionId_mensajeSP" type="InputTextInteger" id="1655620556">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;mensajeSP (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/mensajeSP"/>
+<property name="outputBinding" value="ConfiguracionOut/mensajeSP"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="9" name="ConfiguracionId_observacionOT" type="InputText" id="1451679357">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;observacionOT (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/observacionOT"/>
+<property name="outputBinding" value="ConfiguracionOut/observacionOT"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="10" name="ConfiguracionId_pOTSBRA" type="InputTextInteger" id="2143658826">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;pOTSBRA (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/pOTSBRA"/>
+<property name="outputBinding" value="ConfiguracionOut/pOTSBRA"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="11" name="ConfiguracionId_primario" type="InputTextInteger" id="10523585">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;primario (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/primario"/>
+<property name="outputBinding" value="ConfiguracionOut/primario"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="12" name="ConfiguracionId_prodIndep" type="InputTextInteger" id="428318781">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;prodIndep (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/prodIndep"/>
+<property name="outputBinding" value="ConfiguracionOut/prodIndep"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="13" name="ConfiguracionId_recogerEquipo" type="InputTextInteger" id="1429218452">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;recogerEquipo (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/recogerEquipo"/>
+<property name="outputBinding" value="ConfiguracionOut/recogerEquipo"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="14" name="ConfiguracionId_servAdic" type="InputTextInteger" id="1764576204">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;servAdic (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/servAdic"/>
+<property name="outputBinding" value="ConfiguracionOut/servAdic"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="15" name="ConfiguracionId_tecnico" type="InputTextInteger" id="287927302">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tecnico (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/tecnico"/>
+<property name="outputBinding" value="ConfiguracionOut/tecnico"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="16" name="ConfiguracionId_television" type="InputTextInteger" id="1631940807">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;television (ConfiguracionId)quot;"/>
+<property name="inputBinding" value="ConfiguracionIn/television"/>
+<property name="outputBinding" value="ConfiguracionOut/television"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="18" name="ConfiguracionId_tipoServicio" type="Subform" id="669186113">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Tipo de Servicio (ConfiguracionId)quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="readonly" value="false"/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value=""/>
+<property name="inputBinding" value="ConfiguracionIn/tipoServicio"/>
+<property name="outputBinding" value="ConfiguracionOut/tipoServicio"/>
+<property name="defaultSubform" value="TipoServicioForm.form"/>
+<property name="fieldClass" value="java.lang.Object"/>
+</field>
+<field position="17" name=":decorator_0" type="Separator" id="1737796311">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="labelCSSClass" value=""/>
+<property name="labelCSSStyle" value=""/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="styleclass" value=""/>
+<property name="cssStyle" value="width:500px;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="Separator"/>
+</field>
+<dataHolder inputId="ConfiguracionIn" name="#FBB767" type="dataModelerEntry" outId="ConfiguracionOut" value="org.redhat.bpms.bajaserviciosadicionales.Configuracion" id="ConfiguracionId"/>
+</form>

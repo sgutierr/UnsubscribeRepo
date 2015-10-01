@@ -1,0 +1,24 @@
+
+<form id="1314834623">
+<property name="subject" value=""/>
+<property name="name" value="PortalForm.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="1" name="portalForm_geoCodigo" type="InputTextInteger" id="415470228">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="true"/>
+<property name="label" value="quot;enquot;,quot;geoCodigo (portalForm)quot;"/>
+<property name="inputBinding" value="portalIn/geoCodigo"/>
+<property name="outputBinding" value="portalOut/geoCodigo"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="0" name="portalForm_idPortal" type="InputTextInteger" id="1397902647">
+<property name="fieldRequired" value="false"/>
+<property name="groupWithPrevious" value="false"/>
+<property name="label" value="quot;enquot;,quot;idPortal (portalForm)quot;"/>
+<property name="inputBinding" value="portalIn/idPortal"/>
+<property name="outputBinding" value="portalOut/idPortal"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<dataHolder inputId="portalIn" name="#9BCAFA" type="dataModelerEntry" outId="portalOut" value="org.redhat.bpms.bajaserviciosadicionales.Portal" id="portalForm"/>
+</form>

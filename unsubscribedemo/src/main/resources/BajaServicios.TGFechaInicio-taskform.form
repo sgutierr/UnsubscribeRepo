@@ -1,0 +1,78 @@
+
+<form id="1623225762">
+<property name="subject" value=""/>
+<property name="name" value="BajaServicios.TGFechaInicio-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="FormFlujoEntrada_codigo_cliente" type="InputTextInteger" id="1462777465">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;codigo_cliente (FormFlujoEntrada)quot;"/>
+<property name="inputBinding" value="FormFlujoEntradaIn/codigo_cliente"/>
+<property name="outputBinding" value="FormFlujoEntradaOut/codigo_cliente"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="1" name="FormFlujoEntrada_fecha_creacion" type="InputDate" id="1091107670">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fecha_creacion (FormFlujoEntrada)quot;"/>
+<property name="inputBinding" value="FormFlujoEntradaIn/fecha_creacion"/>
+<property name="outputBinding" value="FormFlujoEntradaOut/fecha_creacion"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="2" name="FormFlujoEntrada_fecha_estimada_fin" type="InputDate" id="715797239">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fecha_estimada_fin (FormFlujoEntrada)quot;"/>
+<property name="inputBinding" value="FormFlujoEntradaIn/fecha_estimada_fin"/>
+<property name="outputBinding" value="FormFlujoEntradaOut/fecha_estimada_fin"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="3" name="FormFlujoEntrada_fecha_fin" type="InputDate" id="84257270">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fecha_fin (FormFlujoEntrada)quot;"/>
+<property name="inputBinding" value="FormFlujoEntradaIn/fecha_fin"/>
+<property name="outputBinding" value="FormFlujoEntradaOut/fecha_fin"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="4" name="FormFlujoEntrada_fecha_fin_real" type="InputDate" id="352884344">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fecha_fin_real (FormFlujoEntrada)quot;"/>
+<property name="inputBinding" value="FormFlujoEntradaIn/fecha_fin_real"/>
+<property name="outputBinding" value="FormFlujoEntradaOut/fecha_fin_real"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="5" name="FormFlujoEntrada_fecha_inicio" type="InputDate" id="196201674">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fecha_inicio (FormFlujoEntrada)quot;"/>
+<property name="inputBinding" value="FormFlujoEntradaIn/fecha_inicio"/>
+<property name="outputBinding" value="FormFlujoEntradaOut/fecha_inicio"/>
+<property name="fieldClass" value="java.util.Date"/>
+</field>
+<field position="6" name="FormFlujoEntrada_id_catalogo_flujo" type="InputText" id="1091632816">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;id_catalogo_flujo (FormFlujoEntrada)quot;"/>
+<property name="inputBinding" value="FormFlujoEntradaIn/id_catalogo_flujo"/>
+<property name="outputBinding" value="FormFlujoEntradaOut/id_catalogo_flujo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="7" name="FormFlujoEntrada_id_flujo" type="InputTextInteger" id="1725459788">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;id_flujo (FormFlujoEntrada)quot;"/>
+<property name="inputBinding" value="FormFlujoEntradaIn/id_flujo"/>
+<property name="outputBinding" value="FormFlujoEntradaOut/id_flujo"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="8" name="FormFlujoEntrada_id_job" type="InputTextInteger" id="731727915">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;id_job (FormFlujoEntrada)quot;"/>
+<property name="inputBinding" value="FormFlujoEntradaIn/id_job"/>
+<property name="outputBinding" value="FormFlujoEntradaOut/id_job"/>
+<property name="fieldClass" value="java.lang.Integer"/>
+</field>
+<field position="9" name="FormFlujoEntrada_producto" type="InputText" id="954089195">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;producto (FormFlujoEntrada)quot;"/>
+<property name="inputBinding" value="FormFlujoEntradaIn/producto"/>
+<property name="outputBinding" value="FormFlujoEntradaOut/producto"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="FormFlujoEntradaIn" name="#0000A0" type="dataModelerEntry" outId="FormFlujoEntradaOut" value="org.redhat.bajaservicios.Flujos" id="FormFlujoEntrada"/>
+</form>
